@@ -1,0 +1,2 @@
+import{A as t}from"./index.12e13f45.js";import"./index.abc77a45.js";import"./iframe.43e9ef9d.js";import"./index.65655ae6.js";import"./jsx-runtime.17fe2203.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/ruverd.png",alt:"Ruver Dornelas"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},m=["Primary","WithFallback"];export{p as Primary,c as WithFallback,m as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.d8f1cc1d.js.map
